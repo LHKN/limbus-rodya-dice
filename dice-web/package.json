@@ -2,7 +2,7 @@
   "name": "dice-web",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://LHKN.github.io/deploy-github/",
+  "homepage": "https://LHKN.github.io/limbus-rodya-dice/",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
